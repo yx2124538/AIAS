@@ -96,10 +96,6 @@
   </table>
 </div>
   
-#### 使用说明：
-- https://zhuanlan.zhihu.com/p/21746563748
-
-<br/>
 <hr>
 <br/>
 
