@@ -10,7 +10,7 @@
 
 #### 作品欣赏
 <div align="center">
-<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/stable_diffusion/sample.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/lineart_sd_new.png" width="600" />
 </div> 
 
 #### 测试环境和数据
@@ -24,7 +24,7 @@
 - 提示词 prompt： a photo of an astronaut riding a horse on mars
 - 生成图片效果：
 <div align="center">
-<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/stable_diffusion/astronaut.png" width="400" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/openpose_sd.png" width="400" />
 </div> 
 
 ### 2. 图生图：根据图片及提示词（仅支持英文）生成图片
