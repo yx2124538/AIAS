@@ -9,7 +9,7 @@
 将不定长的句子用定长的向量表示，为NLP下游任务提供服务。
 
 - 句向量
-![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
+![img](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
 
 
 句向量应用：

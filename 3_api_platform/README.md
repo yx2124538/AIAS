@@ -104,7 +104,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/free.jpg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/free.jpg" width="400px" />
         </div>
       </td>
     </tr>
@@ -118,7 +118,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/audio/images/asr_zh.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/products/audio/images/asr_zh.png" width="400px" />
         </div>
       </td>
     </tr>
@@ -131,7 +131,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/assets/nllb.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/products/assets/nllb.png" width="400px" />
         </div>
       </td>
     </tr>       
@@ -144,7 +144,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/assets/imageSr.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/assets/imageSr.png" width="400px" />
         </div>
       </td>
     </tr>      
@@ -157,7 +157,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/assets/faceGan.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/assets/faceGan.png" width="400px" />
         </div>
       </td>
     </tr>      
@@ -170,7 +170,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/assets/faceSr.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/assets/faceSr.png" width="400px" />
         </div>
       </td>
     </tr>      
@@ -182,7 +182,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/assets/seg_general.jpg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/assets/seg_general.jpg" width="400px" />
         </div>
       </td>
     </tr>      
@@ -194,7 +194,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/assets/seg_human.jpg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/assets/seg_human.jpg" width="400px" />
         </div>
       </td>
     </tr>      
@@ -206,7 +206,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/assets/seg_anime.jpg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/assets/seg_anime.jpg" width="400px" />
         </div>
       </td>
     </tr>      
@@ -218,7 +218,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_seg_sam2/sam2_seg1.jpg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/products/image_seg_sam2/sam2_seg1.jpg" width="400px" />
         </div>
       </td>
     </tr>      
@@ -230,7 +230,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/images/ap-images/ddcolor.jpg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/images/ap-images/ddcolor.jpg" width="400px" />
         </div>
       </td>
     </tr>                                                      
@@ -302,13 +302,13 @@ nohup java -Dfile.encoding=utf-8 -jar xxxxx.jar > log.txt 2>&1 &
 
 
 #### 1. 通用文本识别  
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/free.jpg)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/free.jpg)
  
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/ocrweb_free.jpg)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/ocrweb_free.jpg)
 
 
 #### 2. 文本转正
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/ocrweb_mlsd.jpg)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/ocrweb_mlsd.jpg)
 
 
 

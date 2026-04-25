@@ -94,19 +94,19 @@ nohup java -Dfile.encoding=utf-8 -jar xxxxx.jar > log.txt 2>&1 &
 - 输入地址： http://localhost:8089
 
 #### 1. 自定义模板 - 参照锚点设置
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/ocr_anchor.jpeg)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/ocr_anchor.jpeg)
 
 #### 2. 自定义模板 - 内容识别区设置
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/ocr_content.jpeg)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/ocr_content.jpeg)
 
 #### 3. 基于模板文字识别
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/ocr_rec.jpeg)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/ocr_rec.jpeg)
 
 #### 4. 通用文本识别  
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/ocr_freetxt.jpeg)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/ocr_freetxt.jpeg)
  
 #### 5. 文本转正
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/ocrweb_mlsd.jpg)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/ocrweb_mlsd.jpg)
 
 
 

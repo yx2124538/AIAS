@@ -24,7 +24,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/RotationExample.jpeg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/RotationExample.jpeg" width="400px" />
         </div>
       </td>
     </tr>
@@ -52,7 +52,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/OcrV3RecExample2.jpeg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/OcrV3RecExample2.jpeg" width="400px" />
         </div>
       </td>
     </tr>
@@ -66,7 +66,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/OcrV3RecExample2.jpeg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/OcrV3RecExample2.jpeg" width="400px" />
         </div>
       </td>
     </tr>
@@ -82,7 +82,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/LayoutCNDetExample.jpeg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/LayoutCNDetExample.jpeg" width="400px" />
         </div>
       </td>
     </tr>    
@@ -96,7 +96,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/TableENRecExample.jpeg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/TableENRecExample.jpeg" width="400px" />
         </div>
       </td>
     </tr>    
@@ -110,7 +110,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/led_rec_result.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/led_rec_result.png" width="400px" />
         </div>
       </td>
     </tr>            
@@ -123,7 +123,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/animal_sdk/tiger.jpeg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/animal_sdk/tiger.jpeg" width="400px" />
         </div>
       </td>
     </tr> 
@@ -136,7 +136,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/dish_sdk/dish.jpeg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/dish_sdk/dish.jpeg" width="400px" />
         </div>
       </td>
     </tr> 
@@ -149,7 +149,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/sec_sdks/images/fire_detect_result.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/sec_sdks/images/fire_detect_result.png" width="400px" />
         </div>
       </td>
     </tr>
@@ -162,7 +162,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/sec_sdks/images/ped_result.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/sec_sdks/images/ped_result.png" width="400px" />
         </div>
       </td>
     </tr>
@@ -175,7 +175,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/sec_sdks/images/reflective_detect_result.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/sec_sdks/images/reflective_detect_result.png" width="400px" />
         </div>
       </td>
     </tr>
@@ -188,7 +188,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/sec_sdks/images/helmet_head_person_l.jpeg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/sec_sdks/images/helmet_head_person_l.jpeg" width="400px" />
         </div>
       </td>
     </tr>
@@ -201,7 +201,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/sec_sdks/images/vehicle_result.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/sec_sdks/images/vehicle_result.png" width="400px" />
         </div>
       </td>
     </tr>                                                    

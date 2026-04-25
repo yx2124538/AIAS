@@ -15,13 +15,13 @@
 
 #### 图片人脸修复java实现 - FaceRestorationExample
 - 自动检测人脸及关键地，然后抠图，然后根据人脸关键点转正对齐
-  ![face_sr](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_det.png)
+  ![face_sr](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/face_sdk/images/face_det.png)
 
 - 对所有转正对齐的人脸提升分辨率
-  ![face_sr](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_sr.png)
+  ![face_sr](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/face_sdk/images/face_sr.png)
 
 - 使用分割模型提取人脸，逆向变换后贴回原图
-  ![face_sr](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_res.png)
+  ![face_sr](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/face_sdk/images/face_res.png)
 
   
 ### 开源算法

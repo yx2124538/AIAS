@@ -24,7 +24,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/mask_sdk/face-masks.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/mask_sdk/face-masks.png" width="400px" />
         </div>
       </td>
     </tr> 
@@ -37,7 +37,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/mask_sdk/face-masks.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/mask_sdk/face-masks.png" width="400px" />
         </div>
       </td>
     </tr>
@@ -50,7 +50,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/mask_sdk/face-masks.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/mask_sdk/face-masks.png" width="400px" />
         </div>
       </td>
     </tr>                                                 

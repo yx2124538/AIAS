@@ -19,12 +19,12 @@ sdk给出了人脸对齐的 java 实现。
 
 #### 人脸识别关键技术
 人脸识别涉及的关键技术包含：人脸检测，人脸关键点，人脸特征提取，人脸比对，人脸对齐。
-![face_sdk](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_sdk.png)
+![face_sdk](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/face_sdk/images/face_sdk.png)
 
 #### 人脸对齐的实现：
 #### 运行人脸检测的例子 FaceAlignExample.java
 运行成功后，输出图片效果如下：
-![face_align](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_align.png)
+![face_align](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/face_sdk/images/face_align.png)
 
 
 ### 开源算法

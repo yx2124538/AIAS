@@ -13,7 +13,7 @@
 
 #### 运行例子 - ReflectiveVestDetectExample
 - 测试图片
-![pedestrian](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/sec_sdks/images/reflective_detect_result.png)
+![pedestrian](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/sec_sdks/images/reflective_detect_result.png)
 
 运行成功后，命令行应该看到下面的信息:
 ```text

@@ -14,7 +14,7 @@
 - 对应ControlNet模型： control_canny
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/canny.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/canny.png" width="600" />
 </div> 
 
 #### 2. MLSD 线条检测
@@ -23,7 +23,7 @@
 - 对应ControlNet模型： control_mlsd
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/mlsd.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/mlsd.png" width="600" />
 </div> 
 
 #### 3. Scribble 涂鸦
@@ -33,7 +33,7 @@
 - 对应ControlNet模型： control_mlsd
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/scribble.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/scribble.png" width="600" />
 </div> 
 
 #### 4. SoftEdge 边缘检测
@@ -45,7 +45,7 @@
 - 对应ControlNet模型： control_softedge。
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/softedge.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/softedge.png" width="600" />
 </div> 
 
 #### 5. OpenPose 姿态检测
@@ -54,7 +54,7 @@
 - 对应ControlNet模型： control_openpose。
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/openpose.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/openpose.png" width="600" />
 </div> 
 
 #### 6. Segmentation 语义分割
@@ -63,7 +63,7 @@
 - 对应ControlNet模型： control_seg。
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/seg.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/seg.png" width="600" />
 </div> 
 
 #### 7. Depth 深度检测
@@ -73,7 +73,7 @@
 - 对应ControlNet模型： control_depth。
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/depth.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/depth.png" width="600" />
 </div> 
 
 #### 8. Normal Map 法线贴图
@@ -82,7 +82,7 @@
 - 对应ControlNet模型： control_normal。
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/normal.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/normal.png" width="600" />
 </div> 
 
 #### 9. Lineart 生成线稿
@@ -91,7 +91,7 @@
 - 对应ControlNet模型： control_lineart。
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/lineart.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/lineart.png" width="600" />
 </div> 
 
 #### 10. Lineart Anime 生成线稿
@@ -100,7 +100,7 @@
 - 对应ControlNet模型： control_lineart_anime。
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/lineart_anime.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/lineart_anime.png" width="600" />
 </div> 
 
 #### 11. Content Shuffle
@@ -109,7 +109,7 @@
 - 对应ControlNet模型： control_shuffle。
 
 <div align="center">
-<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/shuffle.png" width="600" />
+<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/shuffle.png" width="600" />
 </div> 
 
 

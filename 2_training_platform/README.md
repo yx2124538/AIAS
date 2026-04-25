@@ -60,20 +60,20 @@ nohup java -Dfile.encoding=utf-8 -jar xxxxx.jar > log.txt 2>&1 &
 #### 2. 上传数据并开始训练:
 -选择zip文件并上传
 -点击训练按钮开始训练
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/train_platform/images/storage.png)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/train_platform/images/storage.png)
 
 #### 3. 查看训练过程:  
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/train_platform/images/training.png)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/train_platform/images/training.png)
   
 #### 4. 图片分类测试:  
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/train_platform/images/classification.png)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/train_platform/images/classification.png)
   
 #### 5. 特征提取测试: 
 图片特征提取使用的是新训练的模型。特征来自模型的特征提取层。 
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/train_platform/images/feature.png)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/train_platform/images/feature.png)
 
 #### 6. 图片比对测试:  
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/train_platform/images/comparision.png)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/train_platform/images/comparision.png)
 
 
   

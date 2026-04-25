@@ -24,7 +24,7 @@
 - 小模型
 
 - 测试图片（左侧原图，右侧效果）
-  ![general](https://github.com/mymagicpower/AIAS/raw/main/imgs/products/cv/seg_unet_sdk/general.png)
+  ![general](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/products/cv/seg_unet_sdk/general.png)
 
 
 #### 2. 动漫一键抠图
@@ -34,7 +34,7 @@
 - 动漫创作等
 
 - 测试图片（左侧原图，右侧效果）
-  ![anime](https://github.com/mymagicpower/AIAS/raw/main/imgs/products/cv/seg_unet_sdk/anime.png)
+  ![anime](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/products/cv/seg_unet_sdk/anime.png)
 
 #### 3. 衣服一键抠图
 衣服一键抠图应用场景可以在很多方面发挥作用，以下是一些简要介绍：
@@ -45,13 +45,13 @@
 - 虚拟试衣
 
 - 测试图片（左侧原图，右侧效果）
-  ![cloth](https://github.com/mymagicpower/AIAS/raw/main/imgs/products/cv/seg_unet_sdk/cloth.png)
+  ![cloth](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/products/cv/seg_unet_sdk/cloth.png)
 
 #### 4. 人体一键抠图
 人体一键抠图可以将人体从背景中抠出，形成一个透明背景的人体图像。
 
 - 测试图片（左侧原图，右侧效果）
-  ![cloth](https://github.com/mymagicpower/AIAS/raw/main/imgs/products/cv/seg_unet_sdk/human.png)
+  ![cloth](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/products/cv/seg_unet_sdk/human.png)
 
 
 

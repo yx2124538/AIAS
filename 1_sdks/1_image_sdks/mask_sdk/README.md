@@ -31,7 +31,7 @@
 ]
 ```
 2. 输出图片效果如下：
-![result](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/mask_sdk/face-masks.png)
+![result](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/mask_sdk/face-masks.png)
 
 
 ### 开源算法

@@ -65,10 +65,10 @@ OCR（文字识别）是目前常用的一种AI能力。
 ```
 
 - 输出图片效果如下：
-![table](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/table.jpeg)
+![table](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/table.jpeg)
 
 - 生成excel效果如下：
-![excel](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/excel.png)
+![excel](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/excel.png)
 
 
 

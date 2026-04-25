@@ -32,7 +32,7 @@ OCR（文字识别）是目前常用的一种AI能力。
 - footer
 - reference
 - equation
-![LayoutCNDetExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/LayoutCNDetExample.jpeg)
+![LayoutCNDetExample](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/LayoutCNDetExample.jpeg)
 
 ##### 2. 英文版面分析 - LayoutENDetExample
 英文版面分析模型，可以划分文字、标题、表格、图片以及列表5类区域：
@@ -43,7 +43,7 @@ OCR（文字识别）是目前常用的一种AI能力。
 - figure
 - 运行成功后，命令行应该看到下面的信息:
 
-![LayoutENDetExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/LayoutENDetExample.jpeg)
+![LayoutENDetExample](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/OCR/images/LayoutENDetExample.jpeg)
 
 
 ### 开源算法

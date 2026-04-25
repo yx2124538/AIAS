@@ -14,7 +14,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/translation.jpeg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/nlp_sdks/translation.jpeg" width="400px" />
         </div>
       </td>
     </tr>
@@ -27,7 +27,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/translation.jpeg" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/nlp_sdks/translation.jpeg" width="400px" />
         </div>
       </td>
     </tr>                                                          

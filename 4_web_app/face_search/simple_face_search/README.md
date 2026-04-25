@@ -28,7 +28,7 @@ model:
 ### 人脸大数据搜索介绍
 - 人像高精度搜索：人脸特征提取(使用人脸特征模型提取128维特征)前先做 - 人脸检测，人脸关键点提取，人脸对齐
 
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/image_search/images/search_engine.png)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/image_search/images/search_engine.png)
 
 
 #### 主要特性
@@ -141,10 +141,10 @@ search:
 - 图片上传        
 1). 点击上传按钮上传zip压缩包.  
 2). 点击提取人脸特征按钮.  
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/7_engine_hub/face_search/data.png)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/7_engine_hub/face_search/data.png)
 
 - 人像搜索
-![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/7_engine_hub/face_search/search.png)
+![Screenshot](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/7_engine_hub/face_search/search.png)
 
 
 - 重置Milvus向量引擎(清空数据):  

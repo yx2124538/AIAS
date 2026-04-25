@@ -14,7 +14,7 @@
 针对带有主观描述的文本，可自动判断该文本的情感极性类别并给出相应的置信度，
 能够帮助企业理解用户消费习惯、分析热点话题和危机舆情监控，为企业提供有利的决策支持。
 
-![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/sentiment_analysis.jpeg)
+![img](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/nlp_sdks/sentiment_analysis.jpeg)
 
 
 ### SDK算法：

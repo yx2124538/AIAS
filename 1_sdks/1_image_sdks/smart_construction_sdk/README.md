@@ -26,15 +26,15 @@
 
 #### 运行小模型例子 - Yolov5sExample
 - 测试图片效果（只显示安全帽检测，过滤了其它类别的显示，具体看代码）
-![small](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/sec_sdks/images/helmet_head_person_s.jpeg)
+![small](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/sec_sdks/images/helmet_head_person_s.jpeg)
 
 #### 运行中模型例子 - Yolov5mExample
 - 测试图片效果
-![medium](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/sec_sdks/images/helmet_head_person_m.jpeg)
+![medium](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/sec_sdks/images/helmet_head_person_m.jpeg)
 
 #### 运行大模型例子 - Yolov5lExample
 - 测试图片效果
-![large](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/sec_sdks/images/helmet_head_person_l.jpeg)
+![large](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/sec_sdks/images/helmet_head_person_l.jpeg)
 
 
 运行成功后，命令行应该看到下面的信息:

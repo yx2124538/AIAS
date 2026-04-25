@@ -19,7 +19,7 @@
 - s2p, 即 sentence to passage ，代表了异质文本之间的嵌入能力，适用任务：文本检索，GPT 记忆模块等
 
 - 句向量    
-  ![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
+  ![img](https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
 
 
 ### SDK功能：

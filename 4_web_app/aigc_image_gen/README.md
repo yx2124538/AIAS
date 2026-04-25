@@ -92,7 +92,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/canny_sd.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/canny_sd.png" width="400px" />
         </div>
       </td>
     </tr>          
@@ -107,7 +107,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/mlsd_sd.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/mlsd_sd.png" width="400px" />
         </div>
       </td>
     </tr>          
@@ -122,7 +122,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/scribble_sd.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/scribble_sd.png" width="400px" />
         </div>
       </td>
     </tr>          
@@ -138,7 +138,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/softedge_sd.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/softedge_sd.png" width="400px" />
         </div>
       </td>
     </tr>          
@@ -154,7 +154,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/openpose_sd.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/openpose_sd.png" width="400px" />
         </div>
       </td>
     </tr>          
@@ -170,7 +170,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/seg_sd.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/seg_sd.png" width="400px" />
         </div>
       </td>
     </tr>          
@@ -185,7 +185,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/depth_sd.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/depth_sd.png" width="400px" />
         </div>
       </td>
     </tr>          
@@ -201,7 +201,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/normal_sd.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/normal_sd.png" width="400px" />
         </div>
       </td>
     </tr>          
@@ -217,7 +217,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/lineart_sd_new.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/lineart_sd_new.png" width="400px" />
         </div>
       </td>
     </tr>          
@@ -233,7 +233,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/lineart_anime_sd_new.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/lineart_anime_sd_new.png" width="400px" />
         </div>
       </td>
     </tr>          
@@ -248,7 +248,7 @@ model:
       </td>     
       <td>
         <div align="center">
-        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/9_aigc/images/shuffle_sd.png" width="400px" />
+        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/9_aigc/images/shuffle_sd.png" width="400px" />
         </div>
       </td>
     </tr>                                                    
