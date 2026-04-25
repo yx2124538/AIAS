@@ -11,12 +11,12 @@
 #### 功能介绍
 - 选择模型，并运行
 <div align="center"> 
-<img width="794" alt="image" src="../../imgs/products/apps/desktop_llm2.png">
+<img width="794" alt="image" src="../../imgs/products/apps/desktop_llm2.png" />
 </div>
 
 - 创建新的对话，与模型聊天
 <div align="center"> 
-<img width="794" alt="image" src="../../imgs/products/apps/desktop_llm1.png">
+<img width="794" alt="image" src="../../imgs/products/apps/desktop_llm1.png" />
 </div>
 
 #### 项目构建

@@ -23,7 +23,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="../imgs/products/apps/desktop_llm1.png" width = "400px"/>
+        <img src="../imgs/products/apps/desktop_llm1.png" width="400px" />
         </div>
       </td>
     </tr>         
@@ -37,7 +37,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://aiart.oss-cn-shanghai.aliyuncs.com/assets/ocr.jpeg" width = "400px"/>
+        <img src="https://aiart.oss-cn-shanghai.aliyuncs.com/assets/ocr.jpeg" width="400px" />
         </div>
       </td>
     </tr>         
@@ -53,7 +53,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://aiart.oss-cn-shanghai.aliyuncs.com/assets/upscale.png" width = "400px"/>
+        <img src="https://aiart.oss-cn-shanghai.aliyuncs.com/assets/upscale.png" width="400px" />
         </div>
       </td>
     </tr>                                         

@@ -6,7 +6,7 @@
 - 图片文字识别
 - 支持windows, linux, mac 一键安装
 <div align="center">
-<img src="https://aiart.oss-cn-shanghai.aliyuncs.com/assets/ocr.jpeg"  width = "500"/>
+<img src="https://aiart.oss-cn-shanghai.aliyuncs.com/assets/ocr.jpeg" width="500" />
 </div> 
 
 

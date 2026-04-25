@@ -7,7 +7,7 @@
 - 批量图片分辨率放大
 - 支持 windows, macos, ubuntu
 <div align="center">
-<img src="https://aiart.oss-cn-shanghai.aliyuncs.com/assets/upscale.png"  width = "500"/>
+<img src="https://aiart.oss-cn-shanghai.aliyuncs.com/assets/upscale.png" width="500" />
 </div> 
 
 
