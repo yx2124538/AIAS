@@ -23,7 +23,7 @@
 
 #### 人脸识别关键技术
 人脸识别涉及的关键技术包含：人脸检测，人脸关键点，人脸特征提取，人脸比对，人脸对齐。
-![face_sdk](../../../imgs/AIAS/face_sdk/images/face_sdk.png)
+![face_sdk](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_sdk.png)
 
 ### 1. 人脸检测(含5个人脸关键点)SDK - face_detection_sdk
 人脸检测(含5个人脸关键点)提供了两个模型的实现：
@@ -46,12 +46,12 @@
 ]
 ```
 2. 输出图片效果如下：
-![detected-faces](../../../imgs/AIAS/face_sdk/images/retinaface_detected.png)
+![detected-faces](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/retinaface_detected.png)
 
 ### 2.  人脸对齐 SDK - face_alignment_sdk
 #### 运行人脸检测的例子 FaceAlignExample.java
 运行成功后，输出图片效果如下：
-![face_align](../../../imgs/AIAS/face_sdk/images/face_align.png)
+![face_align](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_align.png)
 
 ### 3.  人脸特征提取与比对SDK - face_feature_sdk
 #### 3.1 人脸特征提取 - FeatureExtractionExample
@@ -65,7 +65,7 @@
 - 首先检测人脸   
 - 然后根据人脸关键点转正对齐   
 - 提取特征比较相似度   
-![face_feature](../../../imgs/AIAS/face_sdk/images/face_feature.png)
+![face_feature](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_feature.png)
 
 运行成功后，命令行应该看到下面的信息:  
 比对使用的是欧式距离的计算方式。
@@ -81,14 +81,14 @@
 ### 4.  人脸分辨率提升SDK - face_sr_sdk
 #### 4.1 单张人脸图片超分辨 - GFPExample
 - 测试图片（左侧原图，右侧效果）
-![face_sr](../../../imgs/AIAS/face_sdk/images/single_face_sr.png)
+![face_sr](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/single_face_sr.png)
 
 #### 4.2 多人脸超分辨（自动检测人脸，然后对齐人脸后提升分辨率 - FaceSrExample
 - 自动检测人脸及关键地，然后抠图，然后根据人脸关键点转正对齐
-![face_sr](../../../imgs/AIAS/face_sdk/images/face_det.png)
+![face_sr](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_det.png)
 
 - 对所有转正对齐的人脸提升分辨率
-![face_sr](../../../imgs/AIAS/face_sdk/images/face_sr.png)
+![face_sr](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_sr.png)
 
 
 ### 5. 图片人脸修复 SDK - face_restoration_sdk
@@ -98,5 +98,5 @@
 
 #### 运行例子 - FaceRestorationExample
 - 测试图片
-  ![face_sr](../../../imgs/AIAS/face_sdk/images/face_res.png)
+  ![face_sr](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_res.png)
 

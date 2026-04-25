@@ -22,7 +22,7 @@
 
 
 - 句向量    
-  ![img](../../../../imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
+  ![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
 
 
 ### SDK功能：

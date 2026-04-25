@@ -20,7 +20,7 @@
 
 - 运行例子 - FeatureExtractionExample
 测试图片
-![img](../../../imgs/AIAS/feature_extraction_sdk/car1.png)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/feature_extraction_sdk/car1.png)
 
 - 运行成功后，命令行应该看到下面的信息:
 ```text
@@ -35,7 +35,7 @@
 
 - 运行例子 - FeatureComparisonExample
 测试图片: 左右特征对比
-![img](../../../imgs/AIAS/feature_extraction_sdk/comparision.png)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/feature_extraction_sdk/comparision.png)
 
 - 运行成功后，命令行应该看到下面的信息:
 ```text

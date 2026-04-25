@@ -27,17 +27,17 @@ model:
 OpenAI 发布了两个新的神经网络：CLIP 和 DALL·E。它们将 NLP（自然语言识别）与 图像识别结合在一起，对日常生活中的图像和语言有了更好的理解。
 之前都是用文字搜文字，图片搜图片，现在通过CLIP这个模型，可是实现文字搜图片，图片搜文字。其实现思路就是将图片跟文本映射到同一个向量空间。如此，就可以实现图片跟文本的跨模态相似性比对检索。      
 - 特征向量空间（由图片 & 文本组成）    
-![img](../../../imgs/AIAS/nlp_sdks/clip_Imagesearch.png)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/clip_Imagesearch.png)
 
 #### CLIP - “另类”的图像识别
 目前，大多数模型学习从标注好的数据集的带标签的示例中识别图像，而 CLIP 则是学习从互联网获取的图像及其描述, 即通过一段描述而不是“猫”、“狗”这样的单词标签来认识图像。
 为了做到这一点，CLIP 学习将大量的对象与它们的名字和描述联系起来，并由此可以识别训练集以外的对象。
-![img](../../../imgs/AIAS/nlp_sdks/clip.png)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/clip.png)
 如上图所示，CLIP网络工作流程： 预训练图编码器和文本编码器，以预测数据集中哪些图像与哪些文本配对。
 然后，将CLIP转换为zero-shot分类器。此外，将数据集的所有分类转换为诸如“一只狗的照片”之类的标签，并预测最佳配对的图像。
 
 #### 支持的语言列表：
-![img](../../../imgs/AIAS/7_engine_hub/image_text_search/languages.png)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/7_engine_hub/image_text_search/languages.png)
 
 ### 1. 前端部署
 
@@ -126,19 +126,19 @@ java -jar image-text-search-0.1.0.jar
 [测试图片数据](https://pan.baidu.com/s/1QtF6syNUKS5qkf4OKAcuLA?pwd=wfd8)
 2). 点击特征提取按钮. 
 等待图片特征提取，特征存入json文件。
-![Screenshot](../../../imgs/AIAS/7_engine_hub/image_text_search/mini_search_3.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/7_engine_hub/image_text_search/mini_search_3.png)
 
 #### 3.2 跨模态搜索 - 文本搜图
   输入文字描述，点击查询，可以看到返回的图片清单，根据相似度排序。
-![Screenshot](../../../imgs/AIAS/7_engine_hub/image_text_search/mini_search_1.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/7_engine_hub/image_text_search/mini_search_1.png)
 
 #### 3.3 跨模态搜索 - 以图搜图
-![Screenshot](../../../imgs/AIAS/7_engine_hub/image_text_search/mini_search_2.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/7_engine_hub/image_text_search/mini_search_2.png)
 
 ### 4. 帮助信息
 - swagger接口文档:  
 http://localhost:8089/swagger-ui.html
-![Screenshot](../../../imgs/AIAS/video_search/swagger.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/video_search/swagger.png)
 
 
 ### 官网：

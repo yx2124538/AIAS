@@ -21,7 +21,7 @@
 
 #### 图像矫正java实现（自动检测边缘，透视变换转正）
 图像转正提供了两个模型，根据需要使用。
-![MlsdSquareExample](../../../imgs/AIAS/OCR/images/MlsdSquareExample.jpeg)
+![MlsdSquareExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/MlsdSquareExample.jpeg)
 
 
 

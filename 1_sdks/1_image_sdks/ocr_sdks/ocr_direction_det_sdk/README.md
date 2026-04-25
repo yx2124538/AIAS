@@ -25,12 +25,12 @@ OCR（文字识别）是目前常用的一种AI能力。
 - 90度
 - 180度
 - 270度   
-![OcrDirectionExample](../../../../imgs/AIAS/OCR/images/OcrDirectionExample.jpeg)
+![OcrDirectionExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/OcrDirectionExample.jpeg)
 
 ##### 2. 方向旋转 - RotationExample
 - 逆时针旋转
 - 每次旋转90度的倍数
-  ![RotationExample](../../../../imgs/AIAS/OCR/images/RotationExample.jpeg)
+  ![RotationExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/RotationExample.jpeg)
 
 
 

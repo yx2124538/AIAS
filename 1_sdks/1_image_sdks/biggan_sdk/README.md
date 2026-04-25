@@ -38,13 +38,13 @@ imageClass 支持imagenet类别0~999
 
 ### 运行例子 - BigGAN
 - 测试图片类别11，图片尺寸：512X512
-![img1](../../../imgs/AIAS/biggan_sdk/image11.png)
+![img1](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/biggan_sdk/image11.png)
 
 - 测试图片类别156，图片尺寸：512X512
-![img2](../../../imgs/AIAS/biggan_sdk/image156.png)
+![img2](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/biggan_sdk/image156.png)
 
 - 测试图片类别821，图片尺寸：512X512
-![img3](../../../imgs/AIAS/biggan_sdk/image821.png)
+![img3](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/biggan_sdk/image821.png)
 
 运行成功后，命令行应该看到下面的信息:
 ```text

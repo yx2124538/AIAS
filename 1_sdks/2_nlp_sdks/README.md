@@ -23,7 +23,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="../../imgs/AIAS/nlp_sdks/fastText.png" width="400px" />
+        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/fastText.png" width="400px" />
         </div>
       </td>
     </tr>
@@ -36,7 +36,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="../../imgs/AIAS/nlp_sdks/numpy.png" width="400px" />
+        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/numpy.png" width="400px" />
         </div>
       </td>
     </tr>
@@ -49,7 +49,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="../../imgs/AIAS/nlp_sdks/wordpiece.jpeg" width="400px" />
+        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/wordpiece.jpeg" width="400px" />
         </div>
       </td>
     </tr>
@@ -62,7 +62,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="../../imgs/AIAS/nlp_sdks/jieba.png" width="400px" />
+        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/jieba.png" width="400px" />
         </div>
       </td>
     </tr>
@@ -75,7 +75,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="../../imgs/AIAS/nlp_sdks/lac_network.png" width="400px" />
+        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/lac_network.png" width="400px" />
         </div>
       </td>
     </tr>                                                      

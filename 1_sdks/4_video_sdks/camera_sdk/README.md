@@ -23,7 +23,7 @@ http://aias.top/
 
 #### 运行例子
 - 测试图片
-  ![fire_detect](../../../imgs/AIAS/sec_sdks/images/fire_detect_result.png)
+  ![fire_detect](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/sec_sdks/images/fire_detect_result.png)
 
 
 

@@ -14,10 +14,10 @@ https://github.com/allenai/specter/blob/master/README.md
 该模型是symmetric search，向量空间由title & abstract组成。
 
 - 特征向量提取  
-![img](../../../imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
 
 - 特征向量空间（由title & abstract组成）   
-![img](../../../imgs/AIAS/nlp_sdks/semantic_search.jpeg)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/semantic_search.jpeg)
 
 
 ### SDK功能：

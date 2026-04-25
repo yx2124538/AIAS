@@ -22,7 +22,7 @@ model:
 一键抠图是一种图像处理技术，旨在自动将图像中的前景对象从背景中分离出来。它可以帮助用户快速、准确地实现抠图效果，无需手动绘制边界或进行复杂的图像编辑操作。
 一键抠图的原理通常基于计算机视觉和机器学习技术。它使用深度神经网络模型，通过训练大量的图像样本，学习如何识别和分离前景对象和背景。这些模型能够理解图像中的像素信息和上下文，并根据学习到的知识进行像素级别的分割。
 
-![Screenshot](../../../imgs/assets/seg_all.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/assets/seg_all.png)
 
 使用一键抠图可以带来许多实际用途，包括但不限于以下几个方面：
 1. 图像编辑：一键抠图可以用于图像编辑软件中，帮助用户轻松地将前景对象从一个图像中提取出来，并将其放置到另一个图像或背景中，实现合成效果。
@@ -98,10 +98,10 @@ nohup java -Dfile.encoding=utf-8 -jar xxxxx.jar > log.txt 2>&1 &
 
 
 #### 1. 框选一键抠图
-![Screenshot](../../../imgs/products/image_seg_sam2/sam2_seg1.jpg)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_seg_sam2/sam2_seg1.jpg)
 
 #### 2. 框选一键抠图
-![Screenshot](../../../imgs/products/image_seg_sam2/sam2_seg2.jpg)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_seg_sam2/sam2_seg2.jpg)
 
 
 

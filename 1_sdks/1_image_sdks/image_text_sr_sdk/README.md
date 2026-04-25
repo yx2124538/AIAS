@@ -14,7 +14,7 @@
 提供了两个模型，根据需要使用。
 可以用于提升电影字幕清晰度。
 
-![image](../../../imgs/AIAS/OCR/images/TextSrExample.jpg)
+![image](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/TextSrExample.jpg)
 
 
 #### 开源项目：

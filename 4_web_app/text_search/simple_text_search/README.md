@@ -29,7 +29,7 @@ model:
 Arabic, Chinese, Dutch, English, French, German, Italian, Korean, Polish, Portuguese, Russian, Spanish, Turkish.
 
 - 句向量    
-  ![img](../../../imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
+  ![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
 
 
 句向量应用：
@@ -121,17 +121,17 @@ java -jar text-search-0.1.0.jar
 2). 点击特征提取按钮. 
 等待CSV文件解析，特征提取，特征存入向量引擎。通过console可以看到进度信息。
 
-![Screenshot](../../../imgs/AIAS/text_search/storage.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/text_search/storage.png)
 
 - 文本搜索
   输入文字，点击查询，可以看到返回的清单，根据相似度排序。
 
-![Screenshot](../../../imgs/AIAS/text_search/search.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/text_search/search.png)
 
 ## 4s. 帮助信息
 - swagger接口文档:  
 http://localhost:8089/swagger-ui.html
-![Screenshot](../../../imgs/AIAS/text_search/swagger.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/text_search/swagger.png)
 
 
 

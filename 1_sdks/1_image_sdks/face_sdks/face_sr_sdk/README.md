@@ -15,7 +15,7 @@
 
 ### 单张人脸图片超分辨 - GFPExample
 - 测试图片（左侧原图，右侧效果）
-  ![face_sr](../../../../imgs/AIAS/face_sdk/images/single_face_sr.png)
+  ![face_sr](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/single_face_sr.png)
 
 
 ### 开源算法

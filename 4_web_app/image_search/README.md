@@ -5,7 +5,7 @@ http://aias.top/
 ### 以图搜图
 - 包含三个项目，满足不同场景的需要
 
-![Screenshot](../../imgs/products/image_search/images/arc.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_search/images/arc.png)
 
 ### 1. 以图搜图【无向量引擎版】 - mini_image_search
 #### 1.1 主要特性
@@ -56,7 +56,7 @@ http://aias.top/
 1). 支持图片拖拽，粘贴搜索.  
 2). 适配PC，android，ios浏览器.  
 <div align="center">
-<img src="../../imgs/products/image_search/images/simple_1.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_search/images/simple_1.png" width="600" />
 </div> 
 
 - 图片列表页
@@ -64,28 +64,28 @@ http://aias.top/
 2). 图片排版自适应.
 3). 图片列表下拉自动加载.  
 <div align="center">
-<img src="../../imgs/products/image_search/images/simple_2.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_search/images/simple_2.png" width="600" />
 </div> 
 
 #### 2. 后台管理功能介绍
 - 登录
 <div align="center">
-<img src="../../imgs/products/image_search/images/login.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_search/images/login.png" width="600" />
 </div> 
 
 - 用户管理
 <div align="center">
-<img src="../../imgs/products/image_search/images/user.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_search/images/user.png" width="600" />
 </div> 
 
 - 角色管理
 <div align="center">
-<img src="../../imgs/products/image_search/images/role.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_search/images/role.png" width="600" />
 </div> 
 
 - 运维管理
 <div align="center">
-<img src="../../imgs/products/image_search/images/ops.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_search/images/ops.png" width="600" />
 </div> 
 
 - 图片上传
@@ -93,10 +93,10 @@ http://aias.top/
 2). 支持服务器端文件夹上传（大量图片上传使用，比如几十万张图片入库）.  
 3). 支持客户端文件夹上传.  
 <div align="center">
-<img src="../../imgs/products/image_search/images/storage.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_search/images/storage.png" width="600" />
 </div> 
 
 - 图像搜索
 <div align="center">
-<img src="../../imgs/products/image_search/images/search.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/image_search/images/search.png" width="600" />
 </div> 

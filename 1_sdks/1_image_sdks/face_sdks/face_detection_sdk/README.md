@@ -19,7 +19,7 @@ sdk给出了人脸检测的 java 实现。
 
 #### 人脸识别关键技术
 人脸识别涉及的关键技术包含：人脸检测，人脸关键点，人脸特征提取，人脸比对，人脸对齐。
-![face_sdk](../../../../imgs/AIAS/face_sdk/images/face_sdk.png)
+![face_sdk](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/face_sdk.png)
 
 本文的例子给出了人脸检测(含5个人脸关键点)的参考实现。
 #### 人脸检测(含5个人脸关键点)提供了两个模型的实现：
@@ -43,7 +43,7 @@ sdk给出了人脸检测的 java 实现。
 ]
 ```
 2. 输出图片效果如下：
-![detected-faces](../../../../imgs/AIAS/face_sdk/images/retinaface_detected.png)
+![detected-faces](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/face_sdk/images/retinaface_detected.png)
 
    
 ### 开源算法

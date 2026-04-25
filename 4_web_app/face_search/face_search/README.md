@@ -7,7 +7,7 @@
 
 ### 人像搜索
 <div align="center">
-<img src="../../../imgs/products/face_search/images/arc.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/face_search/images/arc.png" width="600" />
 </div> 
 
 ### 下载模型，更新 face_vector_search 的yaml配置文件
@@ -54,22 +54,22 @@ model:
 #### 功能介绍
 - 登录
 <div align="center">
-<img src="../../../imgs/products/face_search/images/login.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/face_search/images/login.png" width="600" />
 </div> 
 
 - 用户管理
 <div align="center">
-<img src="../../../imgs/products/face_search/images/user.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/face_search/images/user.png" width="600" />
 </div> 
 
 - 角色管理
 <div align="center">
-<img src="../../../imgs/products/face_search/images/role.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/face_search/images/role.png" width="600" />
 </div> 
 
 - 运维管理
 <div align="center">
-<img src="../../../imgs/products/face_search/images/ops.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/face_search/images/ops.png" width="600" />
 </div> 
 
 - 图片上传
@@ -77,12 +77,12 @@ model:
 2). 支持服务器端文件夹上传（大量图片上传使用，比如几十万张图片入库）.  
 3). 支持客户端文件夹上传.  
 <div align="center">
-<img src="../../../imgs/products/face_search/images/storage.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/face_search/images/storage.png" width="600" />
 </div> 
 
 - 人像搜索
 <div align="center">
-<img src="../../../imgs/products/face_search/images/search.png" width="600" />
+<img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/face_search/images/search.png" width="600" />
 </div> 
 
 
@@ -203,10 +203,10 @@ nohup java -Dfile.encoding=utf-8 -jar xxxxx-1.0.jar > log.txt 2>&1 &
 - 图片上传        
 1). 点击上传按钮上传zip压缩包.  
 2). 点击提取人脸特征按钮.  
-![Screenshot](../../../imgs/AIAS/7_engine_hub/face_search/data.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/7_engine_hub/face_search/data.png)
 
 - 人像搜索
-![Screenshot](../../../imgs/AIAS/7_engine_hub/face_search/search.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/7_engine_hub/face_search/search.png)
 
 
 ### 6. 重置Milvus向量引擎(清空数据)

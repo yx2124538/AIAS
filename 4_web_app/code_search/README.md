@@ -7,7 +7,7 @@ http://aias.top/
 ### 代码语义搜索
 - 包含两个项目，满足不同场景的需要
 
-![Screenshot](../../imgs/data/images/code_search_arc.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/data/images/code_search_arc.png)
 
 ### 1. 代码语义搜索【无向量引擎版】 - simple_code_search
 #### 主要特性

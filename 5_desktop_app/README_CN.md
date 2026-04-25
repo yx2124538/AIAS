@@ -23,7 +23,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="../imgs/products/apps/desktop_llm1.png" width="400px" />
+        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/products/apps/desktop_llm1.png" width="400px" />
         </div>
       </td>
     </tr>         

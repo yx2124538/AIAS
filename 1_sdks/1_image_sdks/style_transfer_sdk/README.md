@@ -13,7 +13,7 @@
 
 
 - 原图.       
-![img](../../../imgs/AIAS/gan_sdks/scenery.jpeg)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/gan_sdks/scenery.jpeg)
 
 
 ### 运行例子 - StyleTransferExample
@@ -25,16 +25,16 @@
 ```
 
 #### 生成图片效果 - 塞尚风格
-![img](../../../imgs/AIAS/gan_sdks/cezanne.png)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/gan_sdks/cezanne.png)
 
 #### 生成图片效果 - 莫奈风格
-![img](../../../imgs/AIAS/gan_sdks/monet.png)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/gan_sdks/monet.png)
 
 #### 生成图片效果 - 日本浮世绘风格
-![img](../../../imgs/AIAS/gan_sdks/ukiyoe.png)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/gan_sdks/ukiyoe.png)
 
 #### 生成图片效果 - 梵高风格
-![img](../../../imgs/AIAS/gan_sdks/vangogh.png)
+![img](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/gan_sdks/vangogh.png)
 
 
 ### 开源算法

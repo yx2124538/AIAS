@@ -96,15 +96,15 @@ java -jar code-search-0.1.0.jar
 [测试数据](../../../imgs/data/testData.jsonl)
 2). 点击特征提取按钮. 
 等待文件解析，特征提取。通过console可以看到进度信息。
-![Screenshot](../../../imgs/AIAS/text_search/storage.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/text_search/storage.png)
 
 - 相似代码搜索
   输入代码片段，点击查询，可以看到返回的清单，根据相似度排序。
 
-![Screenshot](../../../imgs/data/images/codesearch.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/data/images/codesearch.png)
 
 ## 5. 帮助信息
 - swagger接口文档:  
 http://localhost:8089/swagger-ui.html
-![Screenshot](../../../imgs/AIAS/text_search/swagger.png)
+![Screenshot](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/text_search/swagger.png)
 

@@ -19,7 +19,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="../../../imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png" width="400px" />
+        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png" width="400px" />
         </div>
       </td>
     </tr>
@@ -36,7 +36,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="../../../imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png" width="400px" />
+        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png" width="400px" />
         </div>
       </td>
     </tr>
@@ -52,7 +52,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="../../../imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png" width="400px" />
+        <img src="https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png" width="400px" />
         </div>
       </td>
     </tr>                                                           

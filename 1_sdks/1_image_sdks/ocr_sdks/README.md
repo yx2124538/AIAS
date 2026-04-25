@@ -23,12 +23,12 @@ OCR（文字识别）是目前常用的一种AI能力。
 - 90度
 - 180度
 - 270度   
-![OcrDirectionExample](../../../imgs/AIAS/OCR/images/OcrDirectionExample.jpeg)
+![OcrDirectionExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/OcrDirectionExample.jpeg)
 
 ##### 方向旋转 - RotationExample
 - 逆时针旋转
 - 每次旋转90度的倍数
-  ![RotationExample](../../../imgs/AIAS/OCR/images/RotationExample.jpeg)
+  ![RotationExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/RotationExample.jpeg)
 
 
 
@@ -43,7 +43,7 @@ OCR（文字识别）是目前常用的一种AI能力。
 - 中文文本检测
 - 英文文本检测
 - 多语言文本检测
-![OcrV3DetExample](../../../imgs/AIAS/OCR/images/OcrV3DetExample.jpeg)
+![OcrV3DetExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/OcrV3DetExample.jpeg)
 
 ##### 2.2. V3 文本识别
 支持的语言模型：
@@ -59,9 +59,9 @@ OCR（文字识别）是目前常用的一种AI能力。
 - 卡纳达文
 - 斯拉夫
 
-![OcrV3RecExample1](../../../imgs/AIAS/OCR/images/OcrV3RecExample1.jpeg)
+![OcrV3RecExample1](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/OcrV3RecExample1.jpeg)
 
-![OcrV3RecExample2](../../../imgs/AIAS/OCR/images/OcrV3RecExample2.jpeg)
+![OcrV3RecExample2](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/OcrV3RecExample2.jpeg)
 
 
 ##### 2.3. 多线程文本识别 - OcrV3MultiThreadRecExample
@@ -85,7 +85,7 @@ CPU：2.3 GHz 四核 Intel Core i5
 - footer
 - reference
 - equation
-![LayoutCNDetExample](../../../imgs/AIAS/OCR/images/LayoutCNDetExample.jpeg)
+![LayoutCNDetExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/LayoutCNDetExample.jpeg)
 
 ##### 3.2. 英文版面分析 - LayoutENDetExample
 英文版面分析模型，可以划分文字、标题、表格、图片以及列表5类区域：
@@ -96,35 +96,35 @@ CPU：2.3 GHz 四核 Intel Core i5
 - figure
 - 运行成功后，命令行应该看到下面的信息:
 
-![LayoutENDetExample](../../../imgs/AIAS/OCR/images/LayoutENDetExample.jpeg)
+![LayoutENDetExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/LayoutENDetExample.jpeg)
 
 
 ##### 3.3. 中英文文档 - 表格区域检测 - TableDetExample
 表格数据集训练的版面分析模型，支持中英文文档表格区域的检测。
-![TableDetExample](../../../imgs/AIAS/OCR/images/TableDetExample.jpeg)
+![TableDetExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/TableDetExample.jpeg)
 
 
 #### 4. 表格识别 - ocr_table_sdk
 ##### 4.1. 英文表格识别 - TableENRecExample
-![TableENRecExample](../../../imgs/AIAS/OCR/images/TableENRecExample.jpeg)
+![TableENRecExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/TableENRecExample.jpeg)
 
 
 ##### 4.2. 中文表格识别 - TableCNRecExample
-![TableCNRecExample](../../../imgs/AIAS/OCR/images/TableCNRecExample.jpeg)
+![TableCNRecExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/TableCNRecExample.jpeg)
 
 ##### 4.3. 多表格自动检测识别 - MultiTableRecExample
-![MultiTableRecExample](../../../imgs/AIAS/OCR/images/MultiTableRecExample.jpeg)
+![MultiTableRecExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/MultiTableRecExample.jpeg)
 
 
 #### 5. led文字识别 - ocr_led_sdk
 ##### 5.1. 文本检测 - OcrV3DetExample
 
-![OcrV3DetExample](../../../imgs/AIAS/OCR/images/led_det_result.png)
+![OcrV3DetExample](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/led_det_result.png)
 
 ##### 5.2. 文本识别 - OcrV3RecExample
 
 
-![OcrV3RecExample1](../../../imgs/AIAS/OCR/images/led_rec_result.png)
+![OcrV3RecExample1](https://github.com/mymagicpower/AIAS/raw/main/imgs/AIAS/OCR/images/led_rec_result.png)
 
 
 
