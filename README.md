@@ -3,10 +3,10 @@
 
 <div align="center">
 <div align="center">
-<img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/images/logo.png" width="200" />
+<img src="./imgs/images/logo.png" width="200" />
 </div>
 
-[![star](https://gitee.com/mymagicpower/AIAS/badge/star.svg?theme=gvp)](https://gitee.com/mymagicpower/AIAS/stargazers)   [![fork](https://gitee.com/mymagicpower/AIAS/badge/fork.svg?theme=gvp)](https://gitee.com/mymagicpower/AIAS/members)
+[![star](https://img.shields.io/github/stars/mymagicpower/AIAS?style=social)](https://github.com/mymagicpower/AIAS/stargazers)   [![fork](https://img.shields.io/github/forks/mymagicpower/AIAS?style=social)](https://github.com/mymagicpower/AIAS/network/members)
 </div>
 <br>
 
@@ -23,24 +23,24 @@
     <tr>
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/images/aias_training1.png" width="250" />
+        <img src="./imgs/images/aias_training1.png" width="250" />
         </div>
       </td>
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/images/aias_search.png" width="250" />
+        <img src="./imgs/images/aias_search.png" width="250" />
         </div>
       </td>
     </tr>  
     <tr>
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/image_search/images/face_search.png" width="250" />
+        <img src="./imgs/AIAS/image_search/images/face_search.png" width="250" />
         </div>
       </td>
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/train_platform/images/training.png" width="250" />
+        <img src="./imgs/AIAS/train_platform/images/training.png" width="250" />
         </div>
       </td>
     </tr>   
@@ -89,7 +89,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/train_platform/images/training.png" width="400px" />
+        <img src="./imgs/AIAS/train_platform/images/training.png" width="400px" />
         </div>
       </td>
     </tr>                                         
@@ -167,7 +167,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/products/image_search/images/storage.png" width="400px" />
+        <img src="./imgs/products/image_search/images/storage.png" width="400px" />
         </div>
       </td>
     </tr>      
@@ -179,7 +179,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/products/image_search/images/search.png" width="400px" />
+        <img src="./imgs/products/image_search/images/search.png" width="400px" />
         </div>
       </td>
     </tr>                                                                    
@@ -204,7 +204,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/7_engine_hub/image_text_search/storage.png" width="400px" />
+        <img src="./imgs/AIAS/7_engine_hub/image_text_search/storage.png" width="400px" />
         </div>
       </td>
     </tr>      
@@ -217,7 +217,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/7_engine_hub/image_text_search/search2.png" width="400px" />
+        <img src="./imgs/AIAS/7_engine_hub/image_text_search/search2.png" width="400px" />
         </div>
       </td>
     </tr>      
@@ -229,7 +229,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/7_engine_hub/image_text_search/search3.png" width="400px" />
+        <img src="./imgs/AIAS/7_engine_hub/image_text_search/search3.png" width="400px" />
         </div>
       </td>
     </tr>                                                                     
@@ -254,7 +254,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/7_engine_hub/face_search/data.png" width="400px" />
+        <img src="./imgs/AIAS/7_engine_hub/face_search/data.png" width="400px" />
         </div>
       </td>
     </tr>      
@@ -266,7 +266,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://raw.githubusercontent.com/mymagicpower/AIAS/main/imgs/AIAS/7_engine_hub/face_search/search.png" width="400px" />
+        <img src="./imgs/AIAS/7_engine_hub/face_search/search.png" width="400px" />
         </div>
       </td>
     </tr>                                                                    
