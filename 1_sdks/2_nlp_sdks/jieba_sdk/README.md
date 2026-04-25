@@ -1,7 +1,7 @@
 ### 文本 - 中文分词SDK
 jieba分词java版本的简化实现。
 
-![jieba](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/nlp_sdks/jieba.png)
+![jieba](../../../imgs/AIAS/nlp_sdks/jieba.png)
 
 Python版：
 https://github.com/fxsjy/jieba

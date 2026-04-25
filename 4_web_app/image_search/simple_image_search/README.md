@@ -154,15 +154,15 @@ search:
 [测试图片数据](https://pan.baidu.com/s/1QtF6syNUKS5qkf4OKAcuLA?pwd=wfd8)
 2). 点击特征提取按钮. 
 等待图片特征提取，特征存入json文件。
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/7_engine_hub/image_text_search/mini_search_3.png)
+![Screenshot](../../../imgs/AIAS/7_engine_hub/image_text_search/mini_search_3.png)
 
 #### 4.2 以图搜图
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/7_engine_hub/image_text_search/mini_search_2.png)
+![Screenshot](../../../imgs/AIAS/7_engine_hub/image_text_search/mini_search_2.png)
 
 ### 5. 帮助信息
 - swagger接口文档:  
 http://localhost:8089/swagger-ui.html
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/video_search/swagger.png)
+![Screenshot](../../../imgs/AIAS/video_search/swagger.png)
 
 
 ### 官网：

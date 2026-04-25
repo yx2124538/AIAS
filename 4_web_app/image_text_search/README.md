@@ -7,7 +7,7 @@ http://aias.top/
 ### 图像&文本的跨模态相似性比对检索【支持40种语言】
 - 包含两个项目，满足不同场景的需要
 
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/7_engine_hub/image_text_search/arc.png)
+![Screenshot](../../imgs/AIAS/7_engine_hub/image_text_search/arc.png)
 
 ### 1. 图像&文本的跨模态相似性比对检索【无向量引擎版】 - simple_image_text_search
 #### 1.1 主要特性
@@ -41,16 +41,16 @@ http://aias.top/
 [测试图片数据](https://pan.baidu.com/s/1QtF6syNUKS5qkf4OKAcuLA?pwd=wfd8)
 2). 点击特征提取按钮. 
 等待图片特征提取，特征存入向量引擎。通过console可以看到进度信息。
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/7_engine_hub/image_text_search/storage.png)
+![Screenshot](../../imgs/AIAS/7_engine_hub/image_text_search/storage.png)
 
 #### 3.2 跨模态搜索 - 文本搜图
   输入文字描述，点击查询，可以看到返回的图片清单，根据相似度排序。
 
 - 例子1，输入文本：车
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/7_engine_hub/image_text_search/search1.png)
+![Screenshot](../../imgs/AIAS/7_engine_hub/image_text_search/search1.png)
 
 - 例子2，输入文本：雪地上两只狗
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/7_engine_hub/image_text_search/search2.png)
+![Screenshot](../../imgs/AIAS/7_engine_hub/image_text_search/search2.png)
 
 #### 3.3 跨模态搜索 - 以图搜图
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/7_engine_hub/image_text_search/search3.png)
+![Screenshot](../../imgs/AIAS/7_engine_hub/image_text_search/search3.png)

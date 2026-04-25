@@ -22,7 +22,7 @@ OCR（文字识别）是目前常用的一种AI能力。
 - 生成excel文件
 ```text
     # 表格识别 model URI
-    table-en: https://aias-home.oss-cn-beijing.aliyuncs.com/models/ocr_models/en_table.zip
+    table-en: ../../../../imgs/models/ocr_models/en_table.zip
 ```
 
 ### 运行OCR识别例子
@@ -65,10 +65,10 @@ OCR（文字识别）是目前常用的一种AI能力。
 ```
 
 - 输出图片效果如下：
-![table](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/OCR/images/table.jpeg)
+![table](../../../../imgs/AIAS/OCR/images/table.jpeg)
 
 - 生成excel效果如下：
-![excel](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/OCR/images/excel.png)
+![excel](../../../../imgs/AIAS/OCR/images/excel.png)
 
 
 

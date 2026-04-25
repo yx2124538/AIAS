@@ -17,7 +17,7 @@
 
 #### 人脸识别关键技术
 人脸识别涉及的关键技术包含：人脸检测，人脸关键点，人脸特征提取，人脸比对，人脸对齐。
-![face_sdk](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/face_sdk/images/face_sdk.png)
+![face_sdk](../../../../imgs/AIAS/face_sdk/images/face_sdk.png)
 
 本文的例子给出了人脸特征提取，人脸比对的参考实现。
 人脸识别完整的pipeline：人脸检测(含人脸关键点) --> 人脸对齐 --> 人脸特征提取 --> 人脸比对
@@ -35,7 +35,7 @@
 - 首先检测人脸
 - 然后根据人脸关键点转正对齐
 - 提取特征比较相似度   
-  ![face_feature](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/face_sdk/images/face_feature.png)
+  ![face_feature](../../../../imgs/AIAS/face_sdk/images/face_feature.png)
 
 运行成功后，命令行应该看到下面的信息:  
 比对使用的是余弦相似度的计算方式。

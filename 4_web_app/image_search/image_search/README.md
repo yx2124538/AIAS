@@ -18,7 +18,7 @@ model:
 
 ### 以图搜图产品
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/image_search/images/arc.png"  width = "600"/>
+<img src="../../../imgs/products/image_search/images/arc.png"  width = "600"/>
 </div> 
 
 #### 主要特性
@@ -48,7 +48,7 @@ model:
 1). 支持图片拖拽，粘贴搜索.  
 2). 适配PC，android，ios浏览器.  
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/image_search/images/simple_1.png"  width = "600"/>
+<img src="../../../imgs/products/image_search/images/simple_1.png"  width = "600"/>
 </div> 
 
 - 图片列表页
@@ -56,28 +56,28 @@ model:
 2). 图片排版自适应.
 3). 图片列表下拉自动加载.  
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/image_search/images/simple_2.png"  width = "600"/>
+<img src="../../../imgs/products/image_search/images/simple_2.png"  width = "600"/>
 </div> 
 
 #### 2. 后台管理功能介绍
 - 登录
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/image_search/images/login.png"  width = "600"/>
+<img src="../../../imgs/products/image_search/images/login.png"  width = "600"/>
 </div> 
 
 - 用户管理
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/image_search/images/user.png"  width = "600"/>
+<img src="../../../imgs/products/image_search/images/user.png"  width = "600"/>
 </div> 
 
 - 角色管理
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/image_search/images/role.png"  width = "600"/>
+<img src="../../../imgs/products/image_search/images/role.png"  width = "600"/>
 </div> 
 
 - 运维管理
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/image_search/images/ops.png"  width = "600"/>
+<img src="../../../imgs/products/image_search/images/ops.png"  width = "600"/>
 </div> 
 
 - 图片上传
@@ -85,12 +85,12 @@ model:
 2). 支持服务器端文件夹上传（大量图片上传使用，比如几十万张图片入库）.  
 3). 支持客户端文件夹上传.  
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/image_search/images/storage.png"  width = "600"/>
+<img src="../../../imgs/products/image_search/images/storage.png"  width = "600"/>
 </div> 
 
 - 图像搜索
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/image_search/images/search.png"  width = "600"/>
+<img src="../../../imgs/products/image_search/images/search.png"  width = "600"/>
 </div> 
 
 

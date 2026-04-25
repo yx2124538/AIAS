@@ -25,7 +25,7 @@ hr, hu, hy, id, it, ja, ka, ko, ku, lt, lv, mk, mn, mr, ms, my, nb, nl, pl, pt, 
 ro, ru, sk, sl, sq, sr, sv, th, tr, uk, ur, vi, zh-cn, zh-tw.
 
 - 句向量    
-  ![img](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
+  ![img](../../../../imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
 
 
 ### SDK功能：

@@ -19,7 +19,7 @@
 
 ### 图片上 - ColorExample
 - 测试图片（左侧原图，右侧效果）
-  ![color](https://aias-home.oss-cn-beijing.aliyuncs.com/products/cv/image_colorization_sdk/color.png)
+  ![color](../../../imgs/products/cv/image_colorization_sdk/color.png)
 
 
 

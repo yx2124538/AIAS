@@ -21,12 +21,12 @@ OCR（文字识别）是目前常用的一种AI能力。
 #### led 文字识别SDK 
 ##### 1. 文本检测 - OcrV3DetExample
 
-![OcrV3DetExample](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/OCR/images/led_det_result.png)
+![OcrV3DetExample](../../../../imgs/AIAS/OCR/images/led_det_result.png)
 
 ##### 2. 文本识别 - OcrV3RecExample
 
 
-![OcrV3RecExample1](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/OCR/images/led_rec_result.png)
+![OcrV3RecExample1](../../../../imgs/AIAS/OCR/images/led_rec_result.png)
 
 
 

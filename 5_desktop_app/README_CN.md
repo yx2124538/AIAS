@@ -23,7 +23,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/apps/desktop_llm1.png" width = "400px"/>
+        <img src="../imgs/products/apps/desktop_llm1.png" width = "400px"/>
         </div>
       </td>
     </tr>         

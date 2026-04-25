@@ -27,7 +27,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/voice_sdks/asr.jpeg" width = "400px"/>
+        <img src="../../imgs/AIAS/voice_sdks/asr.jpeg" width = "400px"/>
         </div>
       </td>
     </tr> 
@@ -40,7 +40,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/voice_sdks/asr.jpeg" width = "400px"/>
+        <img src="../../imgs/AIAS/voice_sdks/asr.jpeg" width = "400px"/>
         </div>
       </td>
     </tr> 
@@ -53,7 +53,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/voice_sdks/phoneme.jpeg"  width = "400px"/>
+        <img src="../../imgs/AIAS/voice_sdks/phoneme.jpeg"  width = "400px"/>
         </div>
       </td>
     </tr> 
@@ -66,7 +66,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/voice_sdks/SV2TTS.png"  width = "400px"/>
+        <img src="../../imgs/AIAS/voice_sdks/SV2TTS.png"  width = "400px"/>
         </div>
       </td>
     </tr>                                                

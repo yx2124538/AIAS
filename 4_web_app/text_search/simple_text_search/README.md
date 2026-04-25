@@ -29,7 +29,7 @@ model:
 Arabic, Chinese, Dutch, English, French, German, Italian, Korean, Polish, Portuguese, Russian, Spanish, Turkish.
 
 - 句向量    
-  ![img](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
+  ![img](../../../imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
 
 
 句向量应用：
@@ -117,21 +117,21 @@ java -jar text-search-0.1.0.jar
 
 - 上传CSV数据文件
 1). 点击上传按钮上传CSV文件.  
-[测试数据](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/text_search/example.csv)
+[测试数据](../../../imgs/AIAS/text_search/example.csv)
 2). 点击特征提取按钮. 
 等待CSV文件解析，特征提取，特征存入向量引擎。通过console可以看到进度信息。
 
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/text_search/storage.png)
+![Screenshot](../../../imgs/AIAS/text_search/storage.png)
 
 - 文本搜索
   输入文字，点击查询，可以看到返回的清单，根据相似度排序。
 
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/text_search/search.png)
+![Screenshot](../../../imgs/AIAS/text_search/search.png)
 
 ## 4s. 帮助信息
 - swagger接口文档:  
 http://localhost:8089/swagger-ui.html
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/text_search/swagger.png)
+![Screenshot](../../../imgs/AIAS/text_search/swagger.png)
 
 
 

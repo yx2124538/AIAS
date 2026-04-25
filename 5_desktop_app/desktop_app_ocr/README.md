@@ -34,7 +34,7 @@ http://aias.top/AIAS/guides/load_model.html
                         .optEngine("OnnxRuntime")
                         .optModelName("inference")
                         .setTypes(Image.class, NDList.class)
-                        .optModelUrls("https://aias-home.oss-cn-beijing.aliyuncs.com/models/ocr_models/ch_PP-OCRv3_det_infer_onnx.zip")
+                        .optModelUrls("../../imgs/models/ocr_models/ch_PP-OCRv3_det_infer_onnx.zip")
                         .optTranslator(new OCRDetectionTranslator(new ConcurrentHashMap<String, String>()))
                         .optProgress(new ProgressBar())
                         .build();

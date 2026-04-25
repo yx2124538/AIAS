@@ -31,7 +31,7 @@
 ]
 ```
 2. 输出图片效果如下：
-![result](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/mask_sdk/face-masks.png)
+![result](../../../imgs/AIAS/mask_sdk/face-masks.png)
 
 
 ### 开源算法

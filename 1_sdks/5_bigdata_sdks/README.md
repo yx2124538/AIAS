@@ -22,7 +22,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/nlp_sdks/sentiment_analysis.jpeg"  width = "400px"/>
+        <img src="../../imgs/AIAS/nlp_sdks/sentiment_analysis.jpeg"  width = "400px"/>
         </div>
       </td>
     </tr> 
@@ -36,7 +36,7 @@
       </td>     
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/nlp_sdks/sentiment_analysis.jpeg"  width = "400px"/>
+        <img src="../../imgs/AIAS/nlp_sdks/sentiment_analysis.jpeg"  width = "400px"/>
         </div>
       </td>
     </tr>                                                

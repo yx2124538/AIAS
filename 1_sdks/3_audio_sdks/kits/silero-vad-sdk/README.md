@@ -22,7 +22,7 @@
 
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/audio/images/silero.png"  width = "600"/>
+<img src="../../../../imgs/products/audio/images/silero.png"  width = "600"/>
 </div> 
 
 

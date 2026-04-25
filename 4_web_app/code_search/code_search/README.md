@@ -29,7 +29,7 @@ model:
 ### 代码语义搜索
 本例子提供了代码语义搜索，支持上传csv文件，使用句向量模型提取特征，并基于milvus向量引擎进行后续检索。
 
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/data/images/code_search_arc.png)
+![Screenshot](../../../imgs/data/images/code_search_arc.png)
 
 
 #### 主要特性
@@ -46,7 +46,7 @@ model:
 
 
 - 句向量    
-  ![img](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
+  ![img](../../../imgs/AIAS/nlp_sdks/Universal-Sentence-Encoder.png)
 
 
 向量应用：
@@ -145,21 +145,21 @@ search:
 
 - 上传CSV数据文件
 1). 点击上传按钮上传jsonl文件.  
-[测试数据](https://aias-home.oss-cn-beijing.aliyuncs.com/data/testData.jsonl)
+[测试数据](../../../imgs/data/testData.jsonl)
 2). 点击特征提取按钮. 
 等待文件解析，特征提取，特征存入向量引擎。通过console可以看到进度信息。
 
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/text_search/storage.png)
+![Screenshot](../../../imgs/AIAS/text_search/storage.png)
 
 - 相似代码搜索
   输入代码片段，点击查询，可以看到返回的清单，根据相似度排序。
 
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/data/images/codesearch.png)
+![Screenshot](../../../imgs/data/images/codesearch.png)
 
 ## 5. 帮助信息
 - swagger接口文档:  
 http://localhost:8089/swagger-ui.html
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/text_search/swagger.png)
+![Screenshot](../../../imgs/AIAS/text_search/swagger.png)
 
 - 初始化向量引擎(清空数据): 
 me.aias.tools.MilvusInit.java 

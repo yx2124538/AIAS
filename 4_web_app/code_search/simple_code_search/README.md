@@ -93,18 +93,18 @@ java -jar code-search-0.1.0.jar
 
 - 上传CSV数据文件
 1). 点击上传按钮上传jsonl文件.  
-[测试数据](https://aias-home.oss-cn-beijing.aliyuncs.com/data/testData.jsonl)
+[测试数据](../../../imgs/data/testData.jsonl)
 2). 点击特征提取按钮. 
 等待文件解析，特征提取。通过console可以看到进度信息。
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/text_search/storage.png)
+![Screenshot](../../../imgs/AIAS/text_search/storage.png)
 
 - 相似代码搜索
   输入代码片段，点击查询，可以看到返回的清单，根据相似度排序。
 
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/data/images/codesearch.png)
+![Screenshot](../../../imgs/data/images/codesearch.png)
 
 ## 5. 帮助信息
 - swagger接口文档:  
 http://localhost:8089/swagger-ui.html
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/text_search/swagger.png)
+![Screenshot](../../../imgs/AIAS/text_search/swagger.png)
 

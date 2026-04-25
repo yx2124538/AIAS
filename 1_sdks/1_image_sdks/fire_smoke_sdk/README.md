@@ -23,7 +23,7 @@
 
 #### 运行例子 - FireSmokeDetectExample
 - 测试图片
-![fire_detect](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/sec_sdks/images/fire_detect_result.png)
+![fire_detect](../../../imgs/AIAS/sec_sdks/images/fire_detect_result.png)
 
 运行成功后，命令行应该看到下面的信息:
 ```text

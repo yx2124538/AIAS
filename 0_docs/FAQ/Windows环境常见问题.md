@@ -53,7 +53,7 @@ Caused by: java.nio.file.AccessDeniedException: C:\Users\XXX\.djl.ai\mxnet\tmp80
 windows环境文件系统的权限问题，导致下载库失败。可以修改库和模型的默认路径，比如：选择D盘之类权限要求不高的路径。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/guides/images/defaultdir.jpg"  width = "600"/>
+<img src="../../imgs/AIAS/guides/images/defaultdir.jpg"  width = "600"/>
 </div>   
 
 参考链接：

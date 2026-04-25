@@ -4,7 +4,7 @@ http://aias.top/
 
 ### 人像搜索
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/face_search/images/arc.png"  width = "600"/>
+<img src="../../imgs/products/face_search/images/arc.png"  width = "600"/>
 </div> 
 
 
@@ -41,22 +41,22 @@ http://aias.top/
 #### 功能演示
 - 登录
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/face_search/images/login.png"  width = "600"/>
+<img src="../../imgs/products/face_search/images/login.png"  width = "600"/>
 </div> 
 
 - 用户管理
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/face_search/images/user.png"  width = "600"/>
+<img src="../../imgs/products/face_search/images/user.png"  width = "600"/>
 </div> 
 
 - 角色管理
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/face_search/images/role.png"  width = "600"/>
+<img src="../../imgs/products/face_search/images/role.png"  width = "600"/>
 </div> 
 
 - 运维管理
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/face_search/images/ops.png"  width = "600"/>
+<img src="../../imgs/products/face_search/images/ops.png"  width = "600"/>
 </div> 
 
 - 图片上传
@@ -64,10 +64,10 @@ http://aias.top/
 2). 支持服务器端文件夹上传（大量图片上传使用，比如几十万张图片入库）.  
 3). 支持客户端文件夹上传.  
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/face_search/images/storage.png"  width = "600"/>
+<img src="../../imgs/products/face_search/images/storage.png"  width = "600"/>
 </div> 
 
 - 人像搜索
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/face_search/images/search.png"  width = "600"/>
+<img src="../../imgs/products/face_search/images/search.png"  width = "600"/>
 </div> 

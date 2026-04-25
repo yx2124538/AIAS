@@ -7,7 +7,7 @@ http://aias.top/
 ### 代码语义搜索
 - 包含两个项目，满足不同场景的需要
 
-![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/data/images/code_search_arc.png)
+![Screenshot](../../imgs/data/images/code_search_arc.png)
 
 ### 1. 代码语义搜索【无向量引擎版】 - simple_code_search
 #### 主要特性

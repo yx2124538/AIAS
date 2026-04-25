@@ -10,7 +10,7 @@
 
 #### 作品欣赏
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/stable_diffusion/sample.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/stable_diffusion/sample.png"  width = "600"/>
 </div> 
 
 #### 测试环境和数据
@@ -24,7 +24,7 @@
 - 提示词 prompt： a photo of an astronaut riding a horse on mars
 - 生成图片效果：
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/stable_diffusion/astronaut.png"  width = "400"/>
+<img src="../../../imgs/AIAS/9_aigc/stable_diffusion/astronaut.png"  width = "400"/>
 </div> 
 
 ### 2. 图生图：根据图片及提示词（仅支持英文）生成图片
@@ -45,7 +45,7 @@
 - 对应ControlNet模型： control_canny
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/canny_sd.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/canny_sd.png"  width = "600"/>
 </div> 
 
 #### 4.2. MLSD 线条检测
@@ -55,7 +55,7 @@
 - 对应ControlNet模型： control_mlsd
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/mlsd_sd.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/mlsd_sd.png"  width = "600"/>
 </div> 
 
 #### 4.3. Scribble 涂鸦
@@ -65,7 +65,7 @@
 - 对应ControlNet模型： control_scribble
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/scribble_sd.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/scribble_sd.png"  width = "600"/>
 </div> 
 
 #### 4.4. SoftEdge 边缘检测
@@ -78,7 +78,7 @@
 - 对应ControlNet模型： control_softedge。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/softedge_sd.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/softedge_sd.png"  width = "600"/>
 </div> 
 
 #### 4.5. OpenPose 姿态检测
@@ -88,7 +88,7 @@
 - 对应ControlNet模型： control_openpose。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/openpose_sd.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/openpose_sd.png"  width = "600"/>
 </div> 
 
 #### 4.6. Segmentation 语义分割
@@ -98,7 +98,7 @@
 - 对应ControlNet模型： control_seg。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/seg_sd.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/seg_sd.png"  width = "600"/>
 </div> 
 
 #### 4.7. Depth 深度检测
@@ -112,7 +112,7 @@
 - 对应ControlNet模型： control_depth。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/depth_sd.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/depth_sd.png"  width = "600"/>
 </div> 
 
 #### 4.8. Normal Map 法线贴图
@@ -122,7 +122,7 @@
 - 对应ControlNet模型： control_normal。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/normal_sd.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/normal_sd.png"  width = "600"/>
 </div> 
 
 #### 4.9. Lineart 生成线稿
@@ -132,7 +132,7 @@
 - 对应ControlNet模型： control_lineart。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/lineart_sd_new.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/lineart_sd_new.png"  width = "600"/>
 </div> 
 
 #### 4.10. Lineart Anime 生成线稿
@@ -142,7 +142,7 @@
 - 对应ControlNet模型： control_lineart_anime。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/lineart_anime_sd_new.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/lineart_anime_sd_new.png"  width = "600"/>
 </div> 
 
 #### 4.11. Content Shuffle
@@ -152,7 +152,7 @@
 - 对应ControlNet模型： control_shuffle。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/9_aigc/images/shuffle_sd.png"  width = "600"/>
+<img src="../../../imgs/AIAS/9_aigc/images/shuffle_sd.png"  width = "600"/>
 </div> 
 
 
